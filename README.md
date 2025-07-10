@@ -1,1 +1,1 @@
-# ArcadeHub
+ArcadeHub is a responsive, theme-styled arcade website featuring four interactive browser games: Connect Four, Multiplayer Tic-Tac-Toe, Memory Match, and Whack-a-Mole. Designed with user experience in mind, the platform supports real-time multiplayer functionality, dynamic UI responses, and polished graphics. Built as a hub for casual gaming, ArcadeHub blends modern frontend design with engaging game mechanics in a cohesive, arcade-style interface.
